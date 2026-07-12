@@ -2,9 +2,9 @@
   <img src="../assets/meulah-logo.png" alt="Meulah" width="520">
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <strong>A lightweight, explicit PHP framework for developers who want modern foundations without unnecessary complexity.</strong>
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://github.com/Meulah/framework">Framework</a>
