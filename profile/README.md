@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/meulah-logo.png" alt="Meulah" width="520">
+  <img src="../assets/meulah-logo.png" alt="Meulah" width="520">
 </p>
 
 <p align="center">
